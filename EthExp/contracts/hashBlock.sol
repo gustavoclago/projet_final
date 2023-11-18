@@ -9,7 +9,7 @@ contract HashBlock {
 
     // Função para submeter o hash
     constructor() public {
-        hash = "b10a8db164e0754105b7a99be72e3fe5";
+        hash = "b10a8db164e0754105b7a99be72e3fe5"; //Hash de exemplo
         criador = msg.sender;
         nome = "PROJETO FINAL 2";
     }
